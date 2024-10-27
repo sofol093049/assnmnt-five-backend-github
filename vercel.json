@@ -16,7 +16,7 @@
 
 ],
   "rewrites": [
-    { "src": "/(.*)", "dest": "/" }
+    { "src": "/(.*)", "dest": "./index.js" }
   ]
 
 }
